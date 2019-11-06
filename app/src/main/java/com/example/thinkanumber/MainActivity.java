@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 sziv4.setImageResource(R.drawable.heart2);
                 sziv5.setImageResource(R.drawable.heart2);
                 elet = 5;
+                szam.setText(a+"");
             }
         });
         felugroablakvesztett = new AlertDialog.Builder(MainActivity.this);
@@ -71,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
                 sziv4.setImageResource(R.drawable.heart2);
                 sziv5.setImageResource(R.drawable.heart2);
                 elet = 5;
+                szam.setText(a+"");
             }
         });
     plusz.setOnClickListener(new View.OnClickListener() {
