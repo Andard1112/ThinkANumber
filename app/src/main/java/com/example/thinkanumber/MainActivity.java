@@ -101,7 +101,6 @@ public class MainActivity extends AppCompatActivity {
             if (a == b){
                 felugroAblaknyert.show();
             }else{
-                szam.setText(b+"");
                 if (elet == 5){
                     sziv1.setImageResource(R.drawable.heart1);
                     elet--;
