@@ -14,34 +14,34 @@
 
         <ImageView
             android:id="@+id/sziv1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:src="@drawable/heart2"
 
             />
 
         <ImageView
             android:id="@+id/sziv2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:src="@drawable/heart2" />
 
         <ImageView
             android:id="@+id/sziv3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:src="@drawable/heart2" />
 
         <ImageView
             android:id="@+id/sziv4"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:src="@drawable/heart2" />
 
         <ImageView
             android:id="@+id/sziv5"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:src="@drawable/heart2" />
 
     </LinearLayout>
